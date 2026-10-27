@@ -251,8 +251,8 @@ http://190.60.47.178:8000/play/a0e1
 http://190.60.47.178:8000/play/a0e2
 #EXTINF:-1 tvg-id="HOLATV.co" tvg-logo="https://i.imgur.com/zfVbp7d.png" group-title="Entretenimiento",HOLA TV HD
 http://200.110.169.127:8000/play/a07e
-#EXTINF:-1 tvg-id="Discovery H&H.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Home & Health HD (1080p)
-http://45.228.234.9:8000/play/a0hw
+#EXTINF:-1 tvg-id="Discovery H&H.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Entretenimiento",Home & Health HD (720p)
+http://181.225.190.242:8000/play/a01a
 #EXTINF:-1 tvg-id="Lifetime.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento",Lifetime HD (1080p)
 http://181.78.21.171:8000/play/a04n
 #EXTINF:-1 tvg-id="MTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimiento",MTV HD (1080p)
