@@ -45,8 +45,6 @@ http://181.225.190.242:8000/play/a038
 http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108804.ts
 #EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Regionales y Locales",Cosmovisión HD (1080p)
 http://181.225.190.242:8000/play/a012
-#EXTINF:-1 tvg-id="CARTAGOTV.co" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/AzGNvZwLXVH6laN3/cartv-png-v6EPtwSwACb9Em6K.png" group-title="Regionales y Locales",CARTAGO TV HD (1080p)
-http://200.110.169.127:8000/play/a0c5
 
 # ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Noticias",Cablenoticias (1080p)
@@ -91,6 +89,10 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMS-byxUSKjuSWuq7RAR-
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMc3d8kRyC_ddZs3HaLK839Q/ts
 #EXTINF:-1 tvg-id="DIRECTVSports+.cl" tvg-logo="http://wispcinema2.sytes.net:25461/images/32ec413f9bf57115bdbcf786539ea1ea.png" group-title="Deportes",DIRECTV SPORTS + HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQroGw55eTiQTNR5dybuUzA/ts
+#EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Cine",Claro Sports HD (1080p)
+http://38.224.22.255:8000/play/a05c
+#EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="Cine",Claro Sports 2 HD (1080p)
+http://38.224.22.255:8000/play/a05d
 #EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1280px-TNT_Sports_%282023%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",TNT Sports (480p)
 http://200.110.169.127:8000/play/a07p
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TNT Sports Premium HD (1080p)
@@ -175,10 +177,6 @@ http://200.110.169.127:8000/play/a09y
 http://181.78.21.171:8000/play/a006
 #EXTINF:-1 tvg-id="CanalClaro.sv" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Cine",Canal Claro HD (1080p)
 http://38.224.22.255:8000/play/a05e
-#EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Cine",Claro Sports HD (1080p)
-http://38.224.22.255:8000/play/a05c
-#EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="Cine",Claro Sports 2 HD (1080p)
-http://38.224.22.255:8000/play/a05d
 #EXTINF:-1 tvg-id="TCM.co" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine",TCM HD (1080p)
 http://190.60.47.178:8000/play/a0bt
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Cine",Sony Channel HD (1080p)
@@ -275,6 +273,8 @@ http://181.225.190.242:8000/play/a03n
 # ===== MÚSICA =====
 #EXTINF:-1 tvg-id="LaKalle.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Música",La Kalle HD (1080p)
 http://181.225.190.242:8000/play/a028
+#EXTINF:-1 tvg-id="CARTAGOTV.co" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/AzGNvZwLXVH6laN3/cartv-png-v6EPtwSwACb9Em6K.png" group-title="Música",CARTAGO TV HD (1080p)
+http://200.110.169.127:8000/play/a0c5
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Música",Rumba TV HD (1080p)
 http://181.225.190.242:8000/play/a02r
 #EXTINF:-1 tvg-id="HTV.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/250px-Htv_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Música",HTV HD (1080p)
