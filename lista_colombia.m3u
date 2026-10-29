@@ -121,7 +121,7 @@ http://181.225.190.242:8000/play/a03k
 http://200.110.169.127:8000/play/a08u
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Infantiles",Cartoonito (480p)
 http://200.110.169.127:8000/play/a0a4
-#EXTINF:-1 tvg-id="NickJr.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr HD (1080p)
+#EXTINF:-1 tvg-id="NickJr.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr (720p)
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantiles",Plim Plim TV (720p)
 http://200.115.120.1:8000/play/ca091
@@ -154,11 +154,11 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQPpKvh9K_sR1WTLq1bj
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD (1080p)
 http://200.110.169.127:8000/play/a072
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax (720p)
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+http://38.252.215.33:8000/play/a02c
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
 http://186.148.196.100:8000/play/a002
-#EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (1080p)
-http://181.224.255.210:8001/play/a0sv
+#EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (480p)
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3389.ts
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine",HBO Family HD (1080p)
 http://200.110.169.127:8000/play/a0a0
 #EXTINF:-1 tvg-id="HBOPlus.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus (480p)
