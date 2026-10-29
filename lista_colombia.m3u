@@ -3,14 +3,14 @@
 # ===== NACIONALES (COLOMBIA) =====
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Nacionales",Canal 1 HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMdy9HjYP1EWtCO7-puLF1Gg/ts
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Nacionales",Canal Capital (480p)
-http://181.225.190.242:8000/play/a00f
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Nacionales",Canal Capital HD (1080p)
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-id="CANAL CONGRESO.co" tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Nacionales",Canal Congreso (720p)
 http://181.225.190.242:8000/play/a00g
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacionales",Canal Institucional HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMXyLpMKX0IDvt--XPTjh8As/ts
-#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales",Canal Trece (480p)
-http://181.225.190.242:8000/play/a00l
+#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales",Canal Trece (720p)
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacionales",Canal TRO (480p)
 http://181.225.190.242:8000/play/a00m
 #EXTINF:-1 tvg-id="Caracol HD.co" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacionales",Caracol TV HD (1080p)
@@ -23,8 +23,14 @@ http://181.225.190.242:8000/play/a02n
 http://181.225.190.242:8000/play/a02o
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacionales",Señal Colombia HD (1080p)
 http://181.225.190.242:8000/play/a02t
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Nacionale",RCN Más HD (1080p)
+http://45.226.205.96:48000/play/a0af
 #EXTINF:-1 tvg-id="NUESTRA TELE.co" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="Nacionales",RCN Nuestra Tele (480p)
 http://200.110.169.127:8000/play/a0ai
+#EXTINF:-1 tvg-id="Red+.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Nacionales",Red+ HD (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="Teve.co" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Nacionales",TeveColombia HD (1080p)
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 tvg-id="ElCanal.co" tvg-logo="https://i.imgur.com/gSZcZO5.png" group-title="Nacionales",ElCanal.co (720p)
 http://200.110.169.127:8000/play/a0bn
 
@@ -33,10 +39,10 @@ http://200.110.169.127:8000/play/a0bn
 http://181.225.190.242:8000/play/a00z
 #EXTINF:-1 tvg-id="Teleantioquia HD.co" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Regionales y Locales",Teleantioquia HD (1080p)
 http://181.225.190.242:8000/play/a032
-#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales",Telecafé (480p)
-http://181.225.190.242:8000/play/a033
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales",Telecaribe (480p)
-http://181.225.190.242:8000/play/a034
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales",Telecafé HD (1080p)
+https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales",Telecaribe HD (1080p)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Regionales y Locales",Teleislas HD (1080p)
 http://181.225.190.242:8000/play/a037
 #EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Regionales y Locales",Telemedellín HD (1080p)
@@ -47,19 +53,19 @@ http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108804.ts
 http://181.225.190.242:8000/play/a012
 
 # ===== NOTICIAS =====
-#EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Noticias",Cablenoticias (1080p)
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Noticias",Cablenoticias HD (1080p)
 http://181.225.190.242:8000/play/a00e
 #EXTINF:-1 tvg-id="CNNenEspanol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en Español (720p)
 http://181.225.190.242:8000/play/a011
 #EXTINF:-1 tvg-logo="http://wispcinema2.sytes.net:25461/images/b03a897ada480e95971ed077a9ee00ce.png" tvg-id="DW(Espanol).co" group-title="Noticias",DW Español HD (1080p)
 http://181.225.190.242:8000/play/a04q
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="Noticias",NTN24 (480p)
-http://200.110.169.127:8000/play/a0am
-#EXTINF:-1 tvg-id="teleSUR.ar" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Noticias",Telesur (480p)
-http://200.110.169.127:8000/play/a087
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="Noticias",NTN24 HD (1080p)
+https://stream1.bitred.cl/ntn24/index.m3u8
+#EXTINF:-1 tvg-id="teleSUR.ar" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Noticias",Telesur HD (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.co" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Noticias",Canal 24 Horas (480p)
 http://200.110.169.127:8000/play/a09v
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Noticias",Noticiero 90 Minutos (480p)
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Noticias",Noticiero 90 Minutos (1080p)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Noticias",ZOOM HD (1080p)
 http://181.225.190.242:8000/play/a03s
@@ -67,12 +73,12 @@ http://181.225.190.242:8000/play/a03s
 # ===== DEPORTES =====
 #EXTINF:-1 tvg-id="ESPNColombia.ec" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMVtxz2z8zoUNaCtwxaZST0o/ts
-#EXTINF:-1 tvg-id="ESPN2Colombia.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (720p)
-http://200.48.65.77:8000/play/a012
-#EXTINF:-1 tvg-id="ESPN3Andina.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (720p)
-http://200.48.65.77:8000/play/a00f
-#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (720p)
-http://200.48.65.77:8000/play/a00b
+#EXTINF:-1 tvg-id="ESPN2Colombia.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3Andina.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 #EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 5 HD (1080p)
 http://181.225.190.242:8000/play/a01p
 #EXTINF:-1 tvg-id="ESPN 6 HD.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 6 HD (1080p)
@@ -103,12 +109,12 @@ http://200.110.169.127:8000/play/a0an
 # ===== INFANTILES =====
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network HD (1080p)
 http://181.225.190.242:8000/play/a00s
-#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Infantiles",Discovery Kids (480p)
-http://181.225.190.242:8000/play/a01b
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Infantiles",Discovery Kids HD (1080p)
+http://38.65.175.84:8000/play/a0an
 #EXTINF:-1 tvg-id="DisneyChannel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png" group-title="Infantiles",Disney Channel HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQYxlGq5h9g3rA8NHc3-ga0/ts
-#EXTINF:-1 tvg-id="DisneyJunior.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr. (480p)
-http://181.225.190.242:8000/play/a01f
+#EXTINF:-1 tvg-id="DisneyJunior.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (1080p)
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Nick.mx" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMW7HzBJouUPmzoC8uOAK66Q/ts
 #EXTINF:-1 tvg-id="Tooncast.co" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantiles",Tooncast HD (1080p)
@@ -117,10 +123,10 @@ http://181.225.190.242:8000/play/a03k
 http://200.110.169.127:8000/play/a08u
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Infantiles",Cartoonito (480p)
 http://200.110.169.127:8000/play/a0a4
-#EXTINF:-1 tvg-id="NickJr.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr (480p)
-http://170.82.115.10:8000/play/a053
-#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantiles",Plim Plim TV (480p)
-http://45.70.168.162:12339/play/a02a
+#EXTINF:-1 tvg-id="NickJr.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr HD (1080p)
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/729.m3u8
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantiles",Plim Plim TV (720p)
+http://200.115.120.1:8000/play/ca091
 #EXTINF:-1 tvg-logo="https://www.latingroup.us/assets/images/logo4.png"group-title="Infantiles",Canal Infantil (720p)
 http://181.225.190.242:8000/play/a00j
 #EXTINF:-1 tvg-id="AdultSwim.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Series",Adult Swim (480p)
@@ -149,8 +155,8 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMfxtup724-yis4rFTKQO
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQPpKvh9K_sR1WTLq1bjBb4/ts
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD (1080p)
 http://200.110.169.127:8000/play/a072
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax (480p)
-http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMf0ubHCL3NobD-CxmqbSQgA/ts
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax (720p)
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
 http://200.110.169.127:8000/play/a074
 #EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (1080p)
@@ -171,6 +177,8 @@ http://200.110.169.127:8000/play/a0a1
 http://200.110.169.127:8000/play/a0ag
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine",Golden Edge HD (1080p)
 http://181.78.21.171:8000/play/a004
+#EXTINF:-1 tvg-id="GoldenPremier.co" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine",Golden Premier HD (1080p)
+http://45.186.106.207:8000/play/a06v
 #EXTINF:-1 tvg-id="DHE.co" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Cine",DHE HD (1080p)
 http://200.110.169.127:8000/play/a09y
 #EXTINF:-1 tvg-id="DePelicula.cl" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine",De Película HD(1080p)
@@ -203,8 +211,8 @@ http://200.110.169.127:8000/play/a070
 http://181.225.190.242:8000/play/a03f
 #EXTINF:-1 tvg-id="LasEstrellas.co" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Series",Las Estrellas HD (1080p)
 http://200.110.169.127:8000/play/a0b0
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Series",RCN Novelas (480p)
-http://45.5.117.188:8000/play/a031
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Series",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Pasiones.co" tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="Series",Pasiones HD (1080p)
 http://200.110.169.127:8000/play/a0bd
 
@@ -217,8 +225,8 @@ http://181.225.190.242:8000/play/a022
 http://186.3.191.218:8000/play/a0uc
 #EXTINF:-1 tvg-id="DiscoveryTheater.cl" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater HD (1080p)
 http://200.110.169.127:8000/play/a09j
-#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-logo="https://i.imgur.com/osCVMop.png" group-title="Documentales",Discovery Turbo (720p)
-http://181.225.190.242:8000/play/a01d
+#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-logo="https://i.imgur.com/osCVMop.png" group-title="Documentales",Discovery Turbo HD (1080p)
+http://38.134.250.110:8000/play/a01y
 #EXTINF:-1 tvg-id="DiscoveryWorld.co" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World HD (1080p)
 http://200.110.169.127:8000/play/a075
 #EXTINF:-1 tvg-id="History2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD (1080p)
@@ -275,6 +283,8 @@ http://181.225.190.242:8000/play/a03n
 http://181.225.190.242:8000/play/a028
 #EXTINF:-1 tvg-id="CARTAGOTV.co" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/AzGNvZwLXVH6laN3/cartv-png-v6EPtwSwACb9Em6K.png" group-title="Música",CARTAGO TV HD (1080p)
 http://200.110.169.127:8000/play/a0c5
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-logo="https://i.imgur.com/vrSFUwv.png" group-title="Música",Claro Musica TV HD (1080p)
+http://45.171.64.30:6060/play/a010
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Música",Rumba TV HD (1080p)
 http://181.225.190.242:8000/play/a02r
 #EXTINF:-1 tvg-id="HTV.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/250px-Htv_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Música",HTV HD (1080p)
@@ -309,11 +319,11 @@ http://200.110.169.127:8000/play/a0bp
 http://181.225.190.242:8000/play/a004
 #EXTINF:-1 tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religiosos",Tele Vid HD(1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMecTcl72bjbsq2VWtKd_51Q/ts
-#EXTINF:-1 tvg-id="Cristovision.co" tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png" group-title="Religiosos",Cristovisión (480p)
-http://181.225.190.242:8000/play/a014
+#EXTINF:-1 tvg-id="Cristovision.co" tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png" group-title="Religiosos",Cristovisión (720p)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Canal_TeleAmiga_logo.svg/1280px-Canal_TeleAmiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Religiosos",Tele Amiga (720p)
 http://181.225.190.242:8000/play/a030
 #EXTINF:-1 tvg-id="Enlace.co" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religiosos",Enlace (480p)
 http://200.110.169.127:8000/play/a096
-#EXTINF:-1 tvg-id="EWTN.co" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religiosos",EWTN (480p)
-http://200.110.169.127:8000/play/a094
+#EXTINF:-1 tvg-id="EWTN.co" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religiosos",EWTN (720p)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
