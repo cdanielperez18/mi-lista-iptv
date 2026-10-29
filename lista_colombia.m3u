@@ -10,6 +10,7 @@ http://181.225.190.242:8000/play/a00g
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacionales",Canal Institucional HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMXyLpMKX0IDvt--XPTjh8As/ts
 #EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal Trece (720p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacionales",Canal TRO (480p)
 http://181.225.190.242:8000/play/a00m
@@ -23,7 +24,7 @@ http://181.225.190.242:8000/play/a02n
 http://181.225.190.242:8000/play/a02o
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacionales",Señal Colombia HD (1080p)
 http://181.225.190.242:8000/play/a02t
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Nacionale",RCN Más HD (1080p)
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Nacionales",RCN Más HD (1080p)
 http://45.226.205.96:48000/play/a0af
 #EXTINF:-1 tvg-id="NUESTRA TELE.co" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="Nacionales",RCN Nuestra Tele (480p)
 http://200.110.169.127:8000/play/a0ai
@@ -39,9 +40,13 @@ http://200.110.169.127:8000/play/a0bn
 http://181.225.190.242:8000/play/a00z
 #EXTINF:-1 tvg-id="Teleantioquia HD.co" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Regionales y Locales",Teleantioquia HD (1080p)
 http://181.225.190.242:8000/play/a032
-#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales",Telecafé HD (1080p)
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" http-referrer="https://telecafe.gov.co/senal-en-vivo/" referrer="https://telecafe.gov.co/senal-en-vivo/",Telecafé HD (1080p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+#KODIPROP:inputstream.adaptive.stream_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+#EXTVLCOPT:http-referrer=https://telecafe.gov.co/senal-en-vivo/
 https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales",Telecaribe HD (1080p)
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe HD (1080p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Regionales y Locales",Teleislas HD (1080p)
 http://181.225.190.242:8000/play/a037
@@ -96,15 +101,13 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMc3d8kRyC_ddZs3HaLK8
 #EXTINF:-1 tvg-id="DIRECTVSports+.cl" tvg-logo="http://wispcinema2.sytes.net:25461/images/32ec413f9bf57115bdbcf786539ea1ea.png" group-title="Deportes",DIRECTV SPORTS + HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQroGw55eTiQTNR5dybuUzA/ts
 #EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Cine",Claro Sports HD (1080p)
-http://38.224.22.255:8000/play/a05c
+http://45.5.117.99:8000/play/a04w
 #EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="Cine",Claro Sports 2 HD (1080p)
-http://38.224.22.255:8000/play/a05d
+http://45.5.117.99:8000/play/a04x
 #EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1280px-TNT_Sports_%282023%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",TNT Sports (480p)
-http://200.110.169.127:8000/play/a07p
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/938.m3u8
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TNT Sports Premium HD (1080p)
 http://200.110.169.127:8000/play/a09n
-#EXTINF:-1 tvg-id="GolfChannel.co" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Deportes",Golf Channel (480p)
-http://200.110.169.127:8000/play/a0an
 
 # ===== INFANTILES =====
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network HD (1080p)
@@ -151,14 +154,14 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQvlGWESctQLD9kwlbD1
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMZmIURTS9vLFCLkQ_a8ve-k/ts
 #EXTINF:-1 tvg-id="UniversalTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Cine",Universal TV HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMfxtup724-yis4rFTKQOZSw/ts
-#EXTINF:-1 tvg-id="FX.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Cine",FX (720p)
+#EXTINF:-1 tvg-id="FX.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Cine",FX HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQPpKvh9K_sR1WTLq1bjBb4/ts
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD (1080p)
 http://200.110.169.127:8000/play/a072
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
-http://200.110.169.127:8000/play/a074
+http://186.148.196.100:8000/play/a002
 #EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (1080p)
 http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3389.ts
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine",HBO Family HD (1080p)
@@ -168,11 +171,11 @@ http://186.3.191.218:8000/play/a0t4
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine",HBO Mundi (480p)
 http://181.224.255.210:8001/play/a0rf
 #EXTINF:-1 tvg-id="HBOPop.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine",HBO POP HD (1080p)
-http://200.110.169.127:8000/play/a09p
+http://190.108.83.69:8000/play/a03k
 #EXTINF:-1 tvg-id="HBOSignature.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png" group-title="Cine",HBO Signature (480p)
-http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMRCu8bTLivQq5oLYdwazUj0/ts
+http://181.224.255.210:8001/play/a0re
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine",HBO Xtreme HD (1080p)
-http://200.110.169.127:8000/play/a0a1
+http://190.108.83.69:8000/play/a03y
 #EXTINF:-1 tvg-id="Golden.co" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine",Golden HD (1080p)
 http://200.110.169.127:8000/play/a0ag
 #EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine",Golden Edge HD (1080p)
@@ -184,7 +187,7 @@ http://200.110.169.127:8000/play/a09y
 #EXTINF:-1 tvg-id="DePelicula.cl" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine",De Película HD(1080p)
 http://181.78.21.171:8000/play/a006
 #EXTINF:-1 tvg-id="CanalClaro.sv" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Cine",Canal Claro HD (1080p)
-http://38.224.22.255:8000/play/a05e
+http://45.5.117.99:8000/play/a066
 #EXTINF:-1 tvg-id="TCM.co" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Cine",TCM HD (1080p)
 http://190.60.47.178:8000/play/a0bt
 #EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Cine",Sony Channel HD (1080p)
@@ -283,7 +286,7 @@ http://181.225.190.242:8000/play/a03n
 http://181.225.190.242:8000/play/a028
 #EXTINF:-1 tvg-id="CARTAGOTV.co" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/AzGNvZwLXVH6laN3/cartv-png-v6EPtwSwACb9Em6K.png" group-title="Música",CARTAGO TV HD (1080p)
 http://200.110.169.127:8000/play/a0c5
-#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-logo="https://i.imgur.com/vrSFUwv.png" group-title="Música",Claro Musica TV HD (1080p)
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-logo="https://i.imgur.com/vrSFUwv.png" group-title="Música",Claro Musica TV (480p)
 http://45.171.64.30:6060/play/a010
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Música",Rumba TV HD (1080p)
 http://181.225.190.242:8000/play/a02r
