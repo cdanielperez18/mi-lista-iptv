@@ -9,9 +9,8 @@ https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 http://181.225.190.242:8000/play/a00g
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacionales",Canal Institucional HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMXyLpMKX0IDvt--XPTjh8As/ts
-#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal Trece (720p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales",Canal Trece (480p)
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/360.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacionales",Canal TRO (480p)
 http://181.225.190.242:8000/play/a00m
 #EXTINF:-1 tvg-id="Caracol HD.co" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacionales",Caracol TV HD (1080p)
@@ -40,14 +39,10 @@ http://200.110.169.127:8000/play/a0bn
 http://181.225.190.242:8000/play/a00z
 #EXTINF:-1 tvg-id="Teleantioquia HD.co" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Regionales y Locales",Teleantioquia HD (1080p)
 http://181.225.190.242:8000/play/a032
-#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" http-referrer="https://telecafe.gov.co/senal-en-vivo/" referrer="https://telecafe.gov.co/senal-en-vivo/",Telecafé HD (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-#KODIPROP:inputstream.adaptive.stream_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-#EXTVLCOPT:http-referrer=https://telecafe.gov.co/senal-en-vivo/
-https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe HD (1080p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Regionales y Locales",Telecafé (480p) 
+http://181.225.190.242:8000/play/a033
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Regionales y Locales",Telecaribe (480p)
+http://181.225.190.242:8000/play/a034
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Regionales y Locales",Teleislas HD (1080p)
 http://181.225.190.242:8000/play/a037
 #EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Regionales y Locales",Telemedellín HD (1080p)
@@ -113,7 +108,7 @@ http://200.110.169.127:8000/play/a09n
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network HD (1080p)
 http://181.225.190.242:8000/play/a00s
 #EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Infantiles",Discovery Kids HD (1080p)
-http://38.65.175.84:8000/play/a0an
+http://38.134.250.110:8000/play/a003
 #EXTINF:-1 tvg-id="DisneyChannel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png" group-title="Infantiles",Disney Channel HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQYxlGq5h9g3rA8NHc3-ga0/ts
 #EXTINF:-1 tvg-id="DisneyJunior.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (1080p)
@@ -127,7 +122,7 @@ http://200.110.169.127:8000/play/a08u
 #EXTINF:-1 tvg-id="Cartoonito.co" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Infantiles",Cartoonito (480p)
 http://200.110.169.127:8000/play/a0a4
 #EXTINF:-1 tvg-id="NickJr.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",Nick Jr HD (1080p)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/729.m3u8
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Infantiles",Plim Plim TV (720p)
 http://200.115.120.1:8000/play/ca091
 #EXTINF:-1 tvg-logo="https://www.latingroup.us/assets/images/logo4.png"group-title="Infantiles",Canal Infantil (720p)
@@ -163,11 +158,11 @@ https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
 http://186.148.196.100:8000/play/a002
 #EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (1080p)
-http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3389.ts
+http://181.224.255.210:8001/play/a0sv
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine",HBO Family HD (1080p)
 http://200.110.169.127:8000/play/a0a0
-#EXTINF:-1 tvg-id="HBOPlus.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus HD (1080p)
-http://186.3.191.218:8000/play/a0t4
+#EXTINF:-1 tvg-id="HBOPlus.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus (480p)
+http://181.224.255.210:8001/play/a0qz
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine",HBO Mundi (480p)
 http://181.224.255.210:8001/play/a0rf
 #EXTINF:-1 tvg-id="HBOPop.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine",HBO POP HD (1080p)
@@ -225,7 +220,7 @@ http://181.225.190.242:8000/play/a019
 #EXTINF:-1 tvg-id="History.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History HD (1080p)
 http://181.225.190.242:8000/play/a022
 #EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet HD (1080p)
-http://186.3.191.218:8000/play/a0uc
+http://181.225.190.242:8000/play/a003
 #EXTINF:-1 tvg-id="DiscoveryTheater.cl" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater HD (1080p)
 http://200.110.169.127:8000/play/a09j
 #EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-logo="https://i.imgur.com/osCVMop.png" group-title="Documentales",Discovery Turbo HD (1080p)
@@ -234,7 +229,7 @@ http://38.134.250.110:8000/play/a01y
 http://200.110.169.127:8000/play/a075
 #EXTINF:-1 tvg-id="History2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD (1080p)
 http://181.225.190.242:8000/play/a023
-#EXTINF:-1 tvg-id="ID - Investigation Discovery.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",ID Discovery HD (1080p)
+#EXTINF:-1 tvg-id="ID - Investigation Discovery.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",Discovery ID HD (1080p)
 http://200.110.169.127:8000/play/a07j
 #EXTINF:-1 tvg-id="Discovery Science.co" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Documentales",DISCOVERY SCIENCE HD (1080p)
 http://181.225.190.242:8000/play/a01c
@@ -253,7 +248,7 @@ http://200.110.169.127:8000/play/a06u
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia HD (1080p)
 http://190.60.47.178:8000/play/a0du
 #EXTINF:-1 tvg-id="E! Entertainment TV.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/archive/1/1a/20180817002450%21E%21_Logo.svg/120px-E%21_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Entretenimiento",E! Entertainment TV HD (1080p)
-http://45.228.234.9:8000/play/a0gr
+http://181.119.177.253:8000/play/a0dd
 #EXTINF:-1 tvg-id="ElGourmet.co" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Entretenimiento",El Gourmet HD (1080p)
 http://200.110.169.127:8000/play/a0a6
 #EXTINF:-1 tvg-id="Food Network.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Entretenimiento",Food Network HD (1080p)
@@ -271,7 +266,7 @@ http://200.110.169.127:8000/play/a0a8
 #EXTINF:-1 tvg-id="SunChannel.co" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="Entretenimiento",Sun Channel HD (1080p)
 http://200.110.169.127:8000/play/a0a2
 #EXTINF:-1 tvg-id="FILM & ARTS.co" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Entretenimiento",Film & Arts HD (1080p)
-http://186.3.191.218:8000/play/a0ue
+http://181.119.177.253:8000/play/a0de
 #EXTINF:-1 tvg-id="Click.co" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento",Azteca Clic HD (1080p)
 http://181.225.190.242:8000/play/a007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento",Azteca Corazón (720p)
