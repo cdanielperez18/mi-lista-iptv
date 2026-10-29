@@ -9,7 +9,7 @@ https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 http://181.225.190.242:8000/play/a00g
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacionales",Canal Institucional HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMXyLpMKX0IDvt--XPTjh8As/ts
-#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales",Canal Trece (720p)
+#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal Trece (720p)
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacionales",Canal TRO (480p)
 http://181.225.190.242:8000/play/a00m
