@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://iptv-epg.org/files/epg-co.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://iptv-epg.org/files/epg-cl.xml.gz,https://iptv-epg.org/files/epg-ec.xml.gz,https://iptv-epg.org/files/epg-mx.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://iptv-epg.org/files/epg-co.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://iptv-epg.org/files/epg-cl.xml.gz,https://iptv-epg.org/files/epg-ec.xml.gz,https://iptv-epg.org/files/epg-mx.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz"
 
 # ===== NACIONALES (COLOMBIA) =====
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Nacionales",Canal 1 HD (1080p)
@@ -21,18 +21,16 @@ http://181.225.190.242:8000/play/a00o
 http://181.225.190.242:8000/play/a02n
 #EXTINF:-1 tvg-id="RCN HD.co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Nacionales",RCN HD2 (1080p)
 http://181.225.190.242:8000/play/a02o
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacionales",Señal Colombia HD (1080p)
-http://181.225.190.242:8000/play/a02t
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Nacionales",RCN Más HD (1080p)
+#EXTINF:-1 tvg-id="RCNMas.us" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Nacionales",RCN Más HD (1080p)
 http://45.226.205.96:48000/play/a0af
 #EXTINF:-1 tvg-id="NUESTRA TELE.co" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="Nacionales",RCN Nuestra Tele (480p)
 http://200.110.169.127:8000/play/a0ai
-#EXTINF:-1 tvg-id="Red+.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Nacionales",Red+ HD (1080p)
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacionales",Señal Colombia HD (1080p)
+http://181.225.190.242:8000/play/a02t
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Nacionales",Red+ HD (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="Teve.co" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Nacionales",TeveColombia HD (1080p)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-id="ElCanal.co" tvg-logo="https://i.imgur.com/gSZcZO5.png" group-title="Nacionales",ElCanal.co (720p)
-http://200.110.169.127:8000/play/a0bn
 
 # ===== REGIONALES Y LOCALES (COLOMBIA) =====
 #EXTINF:-1 tvg-id="City TV.co" tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="Regionales y Locales",Citytv HD (1080p)
@@ -71,11 +69,11 @@ https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3
 http://181.225.190.242:8000/play/a03s
 
 # ===== DEPORTES =====
-#EXTINF:-1 tvg-id="ESPNColombia.ec" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN HD (1080p)
+#EXTINF:-1 tvg-id="Canal ESPN (Ecuador).ec" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMVtxz2z8zoUNaCtwxaZST0o/ts
-#EXTINF:-1 tvg-id="ESPN2Colombia.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD (1080p)
+#EXTINF:-1 tvg-id="Canal ESPN 2 (Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD (1080p)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 tvg-id="ESPN3Andina.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD (1080p)
+#EXTINF:-1 tvg-id="Canal ESPN 3 (Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD (1080p)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD (1080p)
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
@@ -87,7 +85,7 @@ http://181.225.190.242:8000/play/a01q
 http://181.225.190.242:8000/play/a01r
 #EXTINF:-1 xui-id="8319" tvg-id="Win Sports.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/47f048257d0b8ac2157427a3dec3c64c.png" group-title="Deportes",Win Sports HD (1080p)
 http://181.225.190.242:8000/play/a03r
-#EXTINF:-1 tvg-id="WinSports+.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/d404f7a15bc47fe19496778889385c1b.png" group-title="Deportes",Win Sports+ HD (1080p)
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/d404f7a15bc47fe19496778889385c1b.png" group-title="Deportes",Win Sports+ HD (1080p)
 http://181.225.73.159:8000/play/a0ae
 #EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-logo="http://wispcinema2.sytes.net:25461/images/a11f0b3411f350d18f6d67061be1ec49.png" group-title="Deportes",DIRECTV SPORTS HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMS-byxUSKjuSWuq7RAR-7rM/ts
@@ -100,7 +98,7 @@ http://45.5.117.99:8000/play/a04w
 #EXTINF:-1 tvg-id="Claro.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="Cine",Claro Sports 2 HD (1080p)
 http://45.5.117.99:8000/play/a04x
 #EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1280px-TNT_Sports_%282023%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",TNT Sports (480p)
-https://m3u.tvcluboficial.com/free/ReachBot/Kip/938.m3u8
+http://177.53.152.117:8000/play/a02f
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TNT Sports Premium HD (1080p)
 http://200.110.169.127:8000/play/a09n
 
@@ -108,13 +106,13 @@ http://200.110.169.127:8000/play/a09n
 #EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon Network HD (1080p)
 http://181.225.190.242:8000/play/a00s
 #EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Infantiles",Discovery Kids HD (1080p)
-http://38.134.250.110:8000/play/a003
+http://38.224.48.4:8000/play/a0xh
 #EXTINF:-1 tvg-id="DisneyChannel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png" group-title="Infantiles",Disney Channel HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQYxlGq5h9g3rA8NHc3-ga0/ts
-#EXTINF:-1 tvg-id="DisneyJunior.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (1080p)
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (720p)
+http://181.225.190.242:8000/play/a01f
 #EXTINF:-1 tvg-id="Nick.mx" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon HD (1080p)
-http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMW7HzBJouUPmzoC8uOAK66Q/ts
+http://38.224.48.4:8000/play/a0he
 #EXTINF:-1 tvg-id="Tooncast.co" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantiles",Tooncast HD (1080p)
 http://181.225.190.242:8000/play/a03k
 #EXTINF:-1 tvg-id="BabyTV.ar" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Infantiles",Baby TV (480p)
@@ -158,7 +156,7 @@ http://38.252.215.33:8000/play/a02c
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
 http://186.148.196.100:8000/play/a002
 #EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (480p)
-http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3389.ts
+http://45.228.234.9:8000/play/a00c
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine",HBO Family HD (1080p)
 http://200.110.169.127:8000/play/a0a0
 #EXTINF:-1 tvg-id="HBOPlus.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus (480p)
@@ -177,6 +175,8 @@ http://200.110.169.127:8000/play/a0ag
 http://181.78.21.171:8000/play/a004
 #EXTINF:-1 tvg-id="GoldenPremier.co" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine",Golden Premier HD (1080p)
 http://45.186.106.207:8000/play/a06v
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine",Golden Premier HD (1080p)
+http://38.7.195.44:8000/play/a0di
 #EXTINF:-1 tvg-id="DHE.co" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Cine",DHE HD (1080p)
 http://200.110.169.127:8000/play/a09y
 #EXTINF:-1 tvg-id="DePelicula.cl" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cine",De Película HD(1080p)
@@ -200,7 +200,7 @@ http://181.225.190.242:8000/play/a00y
 #EXTINF:-1 tvg-id="SonyMovieChannel.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Cine",Sony Movies HD (1080p)
 http://181.225.190.242:8000/play/a02v
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine",Studio Universal HD (1080p)
-http://181.225.190.242:8000/play/a02y
+http://177.53.152.117:8000/play/a03w
 
 # ===== SERIES =====
 #EXTINF:-1 tvg-id="ATRES SERIES HD.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Series",Atres Series HD (1080p)
@@ -266,7 +266,7 @@ http://200.110.169.127:8000/play/a0a8
 #EXTINF:-1 tvg-id="SunChannel.co" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="Entretenimiento",Sun Channel HD (1080p)
 http://200.110.169.127:8000/play/a0a2
 #EXTINF:-1 tvg-id="FILM & ARTS.co" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Entretenimiento",Film & Arts HD (1080p)
-http://181.119.177.253:8000/play/a0de
+http://45.228.234.9:8000/play/a0gs
 #EXTINF:-1 tvg-id="Click.co" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entretenimiento",Azteca Clic HD (1080p)
 http://181.225.190.242:8000/play/a007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Entretenimiento",Azteca Corazón (720p)
