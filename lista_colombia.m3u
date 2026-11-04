@@ -72,11 +72,11 @@ http://181.225.190.242:8000/play/a03s
 #EXTINF:-1 tvg-id="Canal ESPN (Ecuador).ec" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMVtxz2z8zoUNaCtwxaZST0o/ts
 #EXTINF:-1 tvg-id="Canal ESPN 2 (Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD (1080p)
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+http://45.5.117.99:8000/play/a061
 #EXTINF:-1 tvg-id="Canal ESPN 3 (Ecuador).ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD (1080p)
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+http://45.5.117.99:8000/play/a062
 #EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 HD (1080p)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+http://45.5.117.99:8000/play/a064
 #EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 5 HD (1080p)
 http://181.225.190.242:8000/play/a01p
 #EXTINF:-1 tvg-id="ESPN 6 HD.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 6 HD (1080p)
@@ -86,7 +86,7 @@ http://181.225.190.242:8000/play/a01r
 #EXTINF:-1 xui-id="8319" tvg-id="Win Sports.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/47f048257d0b8ac2157427a3dec3c64c.png" group-title="Deportes",Win Sports HD (1080p)
 http://181.225.190.242:8000/play/a03r
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/d404f7a15bc47fe19496778889385c1b.png" group-title="Deportes",Win Sports+ HD (1080p)
-http://181.225.73.159:8000/play/a0ae
+http://8.242.175.210:8000/play/a0uu
 #EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-logo="http://wispcinema2.sytes.net:25461/images/a11f0b3411f350d18f6d67061be1ec49.png" group-title="Deportes",DIRECTV SPORTS HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMS-byxUSKjuSWuq7RAR-7rM/ts
 #EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-logo="http://wispcinema2.sytes.net:25461/images/d1c5bfd009b08bae4062af00e0fcb1ca.png" group-title="Deportes",DIRECTV SPORTS 2 HD (1080p)
@@ -155,12 +155,12 @@ http://200.110.169.127:8000/play/a072
 http://38.252.215.33:8000/play/a02c
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
 http://186.148.196.100:8000/play/a002
-#EXTINF:-1 tvg-id="HBO2.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (480p)
+#EXTINF:-1 tvg-id="HBO 2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine",HBO 2 HD (1080p)
 http://45.228.234.9:8000/play/a00c
 #EXTINF:-1 tvg-id="HBOFamily.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Cine",HBO Family HD (1080p)
 http://200.110.169.127:8000/play/a0a0
-#EXTINF:-1 tvg-id="HBOPlus.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus (480p)
-http://181.224.255.210:8001/play/a0qz
+#EXTINF:-1 tvg-id="HBOPlus(Panamericano).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Cine",HBO Plus (1080p)
+http://45.5.117.99:8000/play/a0l4
 #EXTINF:-1 tvg-id="HBOMundi.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine",HBO Mundi (480p)
 http://181.224.255.210:8001/play/a0rf
 #EXTINF:-1 tvg-id="HBOPop.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine",HBO POP HD (1080p)
@@ -175,7 +175,7 @@ http://200.110.169.127:8000/play/a0ag
 http://181.78.21.171:8000/play/a004
 #EXTINF:-1 tvg-id="GoldenPremier.co" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine",Golden Premier HD (1080p)
 http://45.186.106.207:8000/play/a06v
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cine",Golden Premier HD (1080p)
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Cine",Golden Premier 2 HD (1080p)
 http://38.7.195.44:8000/play/a0di
 #EXTINF:-1 tvg-id="DHE.co" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Cine",DHE HD (1080p)
 http://200.110.169.127:8000/play/a09y
