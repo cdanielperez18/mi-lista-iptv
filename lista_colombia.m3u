@@ -10,7 +10,7 @@ http://181.225.190.242:8000/play/a00g
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacionales",Canal Institucional HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMXyLpMKX0IDvt--XPTjh8As/ts
 #EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacionales",Canal Trece (480p)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/360.m3u8
+http://200.110.169.127:8000/play/a081
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacionales",Canal TRO (480p)
 http://181.225.190.242:8000/play/a00m
 #EXTINF:-1 tvg-id="Caracol HD.co" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacionales",Caracol TV HD (1080p)
@@ -109,7 +109,7 @@ http://181.225.190.242:8000/play/a00s
 http://38.224.48.4:8000/play/a0xh
 #EXTINF:-1 tvg-id="DisneyChannel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png" group-title="Infantiles",Disney Channel HD (1080p)
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQYxlGq5h9g3rA8NHc3-ga0/ts
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (720p)
+#EXTINF:-1 tvg-id="Disney Junior.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Infantiles",Disney Jr HD (720p)
 http://181.225.190.242:8000/play/a01f
 #EXTINF:-1 tvg-id="Nick.mx" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon HD (1080p)
 http://38.224.48.4:8000/play/a0he
