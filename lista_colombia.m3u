@@ -83,7 +83,7 @@ http://181.225.190.242:8000/play/a01p
 http://181.225.190.242:8000/play/a01q
 #EXTINF:-1 tvg-id="ESPN 7 HD.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/500px-ESPN_7_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 7 HD (1080p)
 http://181.225.190.242:8000/play/a01r
-#EXTINF:-1 xui-id="8319" tvg-id="Win Sports.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/47f048257d0b8ac2157427a3dec3c64c.png" group-title="Deportes",Win Sports HD (1080p)
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/47f048257d0b8ac2157427a3dec3c64c.png" group-title="Deportes",Win Sports HD (1080p)
 http://181.225.190.242:8000/play/a03r
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/d404f7a15bc47fe19496778889385c1b.png" group-title="Deportes",Win Sports+ HD (1080p)
 http://8.242.175.210:8000/play/a0uu
