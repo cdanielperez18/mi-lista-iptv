@@ -151,6 +151,8 @@ http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMfxtup724-yis4rFTKQO
 http://wispcinema2.sytes.net:25461/play/JayomOVSAUQ-NK0hQUhQMQPpKvh9K_sR1WTLq1bjBb4/ts
 #EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD (1080p)
 http://200.110.169.127:8000/play/a072
+#EXTINF:-1 tvg-id="AMCSeries.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine",AMC Series  (480p)
+http://38.224.48.4:8000/play/a0rw
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax (720p)
 http://38.252.215.33:8000/play/a02c
 #EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine",HBO HD (1080p)
